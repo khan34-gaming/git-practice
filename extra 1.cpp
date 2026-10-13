@@ -206,9 +206,15 @@ int main(){
 //	return 0;
 //}
 
-int a = 3;
-printf("%d",a++,a*3);
+//int a = 3;
+//printf("%d",a++,a*3);
 
-return 0;
+//return 0;
 
-}
+//}
+
+
+
+
+
+my name is khan
